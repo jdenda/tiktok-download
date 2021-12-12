@@ -9,7 +9,7 @@
     "fluent-ffmpeg": "^2.1.2",
     "mongoose": "^5.12.10",
     "slash-create": "^4.0.1",
-    "tiktok-scraper": "^1.4.36",
+    "tiktok-scraper": "github:fadytaher/tiktok-scraper",
     "winston": "^3.3.3"
   },
   "devDependencies": {
